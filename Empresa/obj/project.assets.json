@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Franklin G. Mendoza\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Joao\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Franklin G. Mendoza\\Documents\\Visual Studio 2019\\Proyectos\\Empresa\\Empresa\\Empresa.csproj",
+      "projectUniqueName": "C:\\Users\\Joao\\Documents\\Visual Studio 2019\\Prueba2Parcial\\Empresa\\Empresa.csproj",
       "projectName": "Empresa",
-      "projectPath": "C:\\Users\\Franklin G. Mendoza\\Documents\\Visual Studio 2019\\Proyectos\\Empresa\\Empresa\\Empresa.csproj",
-      "packagesPath": "C:\\Users\\Franklin G. Mendoza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Franklin G. Mendoza\\Documents\\Visual Studio 2019\\Proyectos\\Empresa\\Empresa\\obj\\",
+      "projectPath": "C:\\Users\\Joao\\Documents\\Visual Studio 2019\\Prueba2Parcial\\Empresa\\Empresa.csproj",
+      "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Joao\\Documents\\Visual Studio 2019\\Prueba2Parcial\\Empresa\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Franklin G. Mendoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
