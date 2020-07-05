@@ -7,14 +7,13 @@ namespace Empresa
     class Producto
     {
         private string codigo, descripcion;
-        private float precio;
+        private double precio;
 
         //Contructor
-        public Producto(string codigo, string descripcion, float precio)
-        {
-            this.codigo = codigo;
-            this.descripcion = descripcion;
-            this.precio = precio;
+        public Producto(){
+            SetCodigo("");
+            SetDescripcion("");
+            SetPrecio(0);
         }
 
 
@@ -29,7 +28,7 @@ namespace Empresa
             descripcion = ndescripcion;
         }
 
-        public void SetPrecio(float nprecio)
+        public void SetPrecio(double nprecio)
         {
             precio = nprecio;
         }
@@ -44,7 +43,7 @@ namespace Empresa
         {
             return descripcion;
         }
-        public float GetPrecio()
+        public double GetPrecio()
         {
             return precio;
         }
